@@ -2,6 +2,7 @@
 Hi, I am a senior studying in University of California, San Diego. 
 
 
+------------------------------
 ### Market Research for Miralto
 
 <h3>Background</h3>
