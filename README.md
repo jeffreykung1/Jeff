@@ -1,10 +1,10 @@
 ## Jeff Kung
 Hi, I am a senior studying in University of California, San Diego. 
 
-``` markdown
-Market Research for Miralto
-```
 
+Market Research for Miralto
+
+``` markdown
 <h3>Background</h3>
 <p>In 2017, I worked with Miralto, a management consulting company based in San Diego, I did market research for a (top 5) British waste-to-energy client. They are considering whether to enter into the US market because new legislations AB 1826 and SB 1383 passed in California. The product of my research would be a presentation deck and white paper published to convince key stakeholders in Municipalities to agree to a </p>
   
@@ -16,11 +16,11 @@ Market Research for Miralto
 <p>4. Waste hauling franchise system</p>
 
 <h3>Outcomes</h3>
-
-``` markdown
-Data Analysis for Los Angeles Metro
 ```
 
+Data Analysis for Los Angeles Metro
+
+``` markdown
 <h3>Background</h3>
 <p>During the fall of 2017, I interned at the Office of Extraordinary Innovations, an innovation lab created by Los Angeles Metro. While my main role is research innovative business models and policy incentives for public transportation, I think I learned the most from the Mobility on Demand project. </p>
 
@@ -32,7 +32,7 @@ Data Analysis for Los Angeles Metro
 <p><strong>1. Have a high minority population.</strong> To get this information, I used data from the US Census 
 <p>2. Have a high low-income population</p>
 <p>3. Be insufficiently served by public transit</p>
-
+```
 
 ### Markdown
 
