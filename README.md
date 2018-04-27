@@ -51,6 +51,8 @@ Hi, I am a senior studying in University of California, San Diego.
         <th>Walk Score</th>
         <th>Daily Rider Activity</th>
     </tr>
+  
+----
 
 ### Markdown
 
