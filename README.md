@@ -2,7 +2,7 @@
 Hi, I am a senior studying in University of California, San Diego. 
 
 
-------------------------------
+--
 ### Market Research for Miralto
 
 <h3>Background</h3>
@@ -16,7 +16,7 @@ Hi, I am a senior studying in University of California, San Diego.
 <p>4. Waste hauling franchise system</p>
 
 <h3>Outcomes</h3>
-
+--
 ### Data Analysis for Los Angeles Metro
 
 <h3>Background</h3>
