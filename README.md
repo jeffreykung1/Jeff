@@ -30,9 +30,7 @@ Hi, I am a senior studying in University of California, San Diego.
 <table>
     <thead>
         <tr>
-        <th>Title IV of Civil Rights Act
-            US ACS Demographic and Housing Estimates (2011-2015)
-        </th>
+        <th>Title IV of Civil Rights Act</th>
         <th>Current Levels of Access</th>
         <th>Demand for Transit</th>
         </tr>
@@ -45,7 +43,8 @@ Hi, I am a senior studying in University of California, San Diego.
         <th>Employment Density</th>
     </tr>
     <tr>
-        <th>Low Income Households</th>
+        <th>Low Income Households
+            US ACS Demographic and Housing Estimates (2011-2015)</th>
         <th>Walk Score</th>
         <th>Daily Rider Activity</th>
     </tr>
